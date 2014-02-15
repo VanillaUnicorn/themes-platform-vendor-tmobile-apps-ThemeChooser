@@ -24,7 +24,7 @@
         android:layout_width="@dimen/preview_width_size"
         android:layout_height="@dimen/preview_height_size"
         android:adjustViewBounds="true"
-        android:background="@android:color/black"
+        android:background="@android:color/white"
         android:scaleType="fitXY"
         />
 
